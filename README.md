@@ -6,6 +6,7 @@ https://colab.research.google.com/drive/1XOPstJnhmYzZ1wHUd1BPmvC4O8MAWDlG?usp=sh
 
 FastQC
 ENCFF894KBP
+
 ![image](https://user-images.githubusercontent.com/84396301/222819667-25dfae72-484c-4304-be2a-0120fcc68d9e.png)
 
 ![image](https://user-images.githubusercontent.com/84396301/222819987-e8eef6c2-5e2b-487a-9de3-4350dca813dc.png)
